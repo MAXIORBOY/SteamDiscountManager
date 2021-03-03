@@ -1,5 +1,7 @@
 # Steam Discount Manager is a program which allows to perform custom filtering and sorting on a list of a discounted titles from Steam. This allows to focus on a really  significant / desired titles.
 
+> :warning: **After launching the ```SteamDiscountScrapper``` or updating a database from ```SteamDiscountManager```, a browser will open**: Do not interfere, the browser will shut down itself after a minute or two.
+
 ## Features:
 * Filters:
   * Discount (%): >= x

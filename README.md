@@ -1,4 +1,4 @@
-# SteamDiscountManager
+# Steam Discount Manager is a program which allows to perform custom filtering and sorting on a list of a discounted titles from Steam.
 
 ## Features:
 * Filters:
@@ -23,3 +23,6 @@
 * ```tkscrolledframe``` 1.0.4
 
 ## Screenshots:
+![sdm1](https://user-images.githubusercontent.com/71539614/109739980-bd089a80-7bca-11eb-9287-3e8b9f61cf7c.png)
+![sdm2](https://user-images.githubusercontent.com/71539614/109739988-bed25e00-7bca-11eb-8879-510ca57ad6c7.png)
+

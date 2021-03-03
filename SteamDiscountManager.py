@@ -241,3 +241,7 @@ class SteamDiscountManager:
 
         self.window_config()
         self.window.mainloop()
+
+
+if __name__ == "__main__":
+    SteamDiscountManager().manager_window()

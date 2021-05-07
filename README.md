@@ -12,7 +12,7 @@
 * DiscountGuard
 
 ## Launch:
-* First download Chromedriver. You can find it here: https://chromedriver.chromium.org/downloads
+* First download Chromedriver. You can find it here: https://chromedriver.chromium.org/downloads IMPORTANT: Make sure that the Chromediver version corresponds with your Chrome browser version.
 * Put this file in the same directory, with the rest of the files.
 * Run the ```SteamDiscountManager.py``` to launch the manager.
 * It is recommended to put a shortcut of the ```RUN.bat``` file into startup.
